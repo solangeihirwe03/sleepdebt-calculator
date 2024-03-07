@@ -52,6 +52,6 @@ else if(totalHoursSlept < idealSleep){
 }
 else{
     const getExtrahours = Math.abs(sleepDebt);
-    console.log ("Hey, you have slept " + getExtrahours + " more than needed");
+    console.log ("Hey, you have slept " + getExtrahours + " more hours than needed");
 }
 
